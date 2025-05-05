@@ -1,0 +1,450 @@
+id,delito
+1,Abandono Por Estado Afectivo
+2,"Abandono Colectivo De Funciones, Cargos O Empleos"
+3,Abandono De Cargo
+4,Abandono De Ninos Y De Personas Desvalidas
+5,Aborto Preterintencional
+6,Aborto Agravado
+7,Aborto Con O Sin Consentimiento
+8,Aborto Calificado
+9,Aborto Procurado
+10,Abuso Contra Particulares
+11,Abuso De Autoridad
+12,Actividades Contra La Seguridad Interior De La Nacion
+15,Acusacion Y Denuncia Falsas
+17,Adquisicion De Equipos Terminales Moviles De Dudosa Procedencia
+18,Agresion
+21,Agrupaciones Ilegales De Gente Armada
+22,Allanamiento
+23,Allanamiento Agravado
+24,Allanamiento Ilegal
+25,Alteracion De Linderos
+26,Alteracion De Equipos Terminales Moviles
+27,Alteracion Maliciosa De Numero De Origen
+28,Alteracion O Destruccion De Informacion En Archivos
+29,Alzamiento De Bienes
+30,Amenazas
+31,Anticipacion De Funciones Publicas
+32,Aprehension Ilegal
+33,Apropiacion Indebida De Tributos
+34,Apropiacion Irregular
+35,Apologia Del Delito
+36,Apropiacion Y Retencion Indebidas
+37,Asesinato
+38,Asistencia (Casa De Juegos)
+39,Asociacion Ilegal De Gente Armada
+40,Asociacion Ilicita
+41,Asociaciones Delictivas
+42,Atentado
+43,Atentado Contra Altos Funcionarios
+44,Atentado Contra El Patrimonio Natural Y Cultural De La Nacion
+45,"Atentado Contra La Seguridad De Los Transportes, Maritimos, Fluviales O Aereos"
+46,Atentado Contra La Seguridad De Servicios De Utilidad Publica
+47,Atentado Contra Los Servicios De Telecomunicaciones
+48,Atentado Contra Otros Medios De Transporte
+49,Calumnia
+50,Cambio Del Uso De La Tierra Sin Autorizacion
+51,Casos Especiales De Contrabando Aduanero
+52,Casos Especiales De Defraudacion Aduanera
+53,Casos Especiales De Estafa
+54,Casos Especiales De Defraudacion Tributaria
+55,Celebracion Ilegal De Matrimonios
+56,Chantaje
+57,Coaccion
+58,Coaccion Contra La Libertad Politica
+59,Cobro Indebido
+60,Cohecho Activo
+61,Cohecho Pasivo
+62,Colocacion Ilicita De Rotulos
+63,Colusion
+64,"Comercializacion De Equipos Terminales Moviles Denunciados Como Robados, Hurtados, Extraviados O Alterados"
+65,Comercializacion De Vehiculos Y Similares Robados En El Extranjero O En Territorio Nacional
+66,"Comercio, Trafico Y Almacenamiento Ilicito"
+67,Competencia Desleal
+68,Comercializacion De Datos Personales
+69,Comercializacion De Equipos Terminales Moviles Por Personas Sin Registro
+72,Conspiracion Mediante Equipos Terminales Moviles
+73,Contagio Venereo
+74,Contra El Patrimonio Nacional Forestal Cometidos Por Autoridades
+75,Contrabando En El Ramo De Tabacos
+76,Concusion
+77,Conspiracion
+78,Consumo Ilicito De Bebidas Alcoholicas O Fermentadas
+80,Contaminacion
+81,Contaminacion Industrial
+82,Contra Los Recursos Forestales
+83,Contrabando Aduanero
+84,"Contrabando En El Ramo De Alcoholes, Bebidas Alcoholicas Y Fermentadas"
+85,Contravencion De Medidas Sanitarias
+86,Cooperacion En La Evasion
+88,Dano
+89,Dano Agravado
+90,Portacion De Un Arma De Fuego Sin La Licencia Correspondiente
+91,Defraudacion Aduanera
+92,Defraudacion En Consumos
+93,Defraudacion Tributaria
+94,"Defraudacion En El Ramo De Alcoholes, Bebidas Alcoholicas Y Fermentadas"
+95,Defraudacion En El Ramo De Tabacos
+96,Delito Cambiario
+97,Delito Contra El Patrimonio Cultural De La Nacion
+98,Intermediacion Financiera
+99,Delito Economico Especial (Derogado Por El Codigo Penal)
+100,Delito Por Dolo O Culpa (Delito Deportivo)
+101,Delitos (Ley General De Caza)
+102,Demolicion Ilicita
+103,Denegacion De Justicia
+104,Deposito Ilegal De Armas De Fuego De Uso Civil Y/O Deportivas
+105,Uso Ilegal De Uniformes O Insignias
+106,Depredacion De Bienes Culturales
+107,Desobediencia
+108,Cercenamiento De Moneda
+109,Desorden Publico
+110,Desprestigio Comercial
+111,Destruccion De Registros Informaticos
+112,Desacato A Los Presidentes De Los Organismos Del Estado
+113,Desacato De Autoridad
+114,Desaparicion Forzada
+115,Detencion Irregular
+116,Detenciones Ilegales
+117,Difamacion
+118,Discriminacion
+119,Disparo De Arma De Fuego
+120,Disparos Sin Causa Justificada
+121,"Distribucion Y Comercializacion De Medicamentos Falsificados, Productos Farmaceuticos Falsificados, Dispositivos Medicos Y Material Medico"
+122,Doble Representacion
+123,Ejecucion Extrajudicial
+124,Elaboracion Peligrosa De Sustancias Alimenticias O Terapeuticas
+125,Emision Y Circulacion De Moneda
+126,"Emisiones Indebidas (Monedas, Billetes O Titulos)"
+128,Encubrimiento Impropio
+129,Encubrimiento Personal
+130,Encubrimiento Propio
+131,Encubrimiento Real
+132,Enriquecimiento Ilicito
+133,Enriquecimiento Ilicito De Particulares
+134,Entrega Indebida De Un Menor
+135,Envenenamiento De Agua O De Sustancia Alimenticia O Medicinal
+136,Equiparacion De Documentos
+137,Estafa De Fluidos
+138,Estafa En La Entrega De Bienes
+139,Estafa Mediante Cheque
+140,Estafa Mediante Informaciones Contables
+141,Estafa Propia
+142,Estrago
+143,Especulacion
+144,Evasion
+145,Evasion Culposa
+146,Exacciones Intimidatorias
+149,Expedicion De Moneda Falsa O Alterada
+150,Expedicion De Moneda Falsa Recibida De Buena Fe
+151,Expendio Irregular De Medicamentos
+152,Explotacion Ilegal De Recursos Naturales
+153,Alteracion (Receta Medica)
+154,Extorsion
+156,Exportacion Ilegal De Armas De Fuego
+157,Exportacion Ilegal De Municiones Para Armas De Fuego
+158,Extraccion De Documentos Historicos
+159,Fabricacion De Armas De Fuego Hechizas O Artesanales
+160,Fabricacion Ilegal De Municiones
+161,Fabricacion Y Tenencia De Materiales Explosivos
+162,Fabricacion De Moneda Falsa
+163,Fabricacion O Transformacion
+164,Facilitacion De Medios
+165,Falsedad En Certificado
+166,Falsedad Ideologica
+167,Falsedad Material
+168,Falsificacion De Documentos Privados
+169,Falsificacion De Placas Y Distintivos Para Vehiculos
+170,"Falsificacion De Sellos, Papel Sellado Y Timbres"
+171,Falsificacion De Billetes De Loteria
+172,Falso Testimonio
+173,Falsa Acusacion Por Delito Privado
+174,Falsedad En Declaracion Jurada Patrimonial
+175,Falsificacion De Documentos Para El Uso De Incentivos Forestales
+177,Fraude
+178,Homicidio
+179,Homicidio Cometido En Estado De Emocion Violenta
+180,Homicidio Culposo
+181,Homicidio Preterintencional
+182,Homicidio En Rina Tumultuaria
+183,Hurto
+184,Hurto Agravado
+185,Hurto De Fluidos
+186,Hurto De Uso
+187,Hurto Impropio
+188,Hurto O Robo Sacrilegos
+189,Hurto Y Robo De Bienes Arqueologicos
+190,Hurto Y Robo De Tesoros Nacionales
+191,Importacion Ilegal De Armas
+192,Importacion Ilegal De Municiones
+193,Importacion Ilegal De Municiones Para Armas De Fuego (Derogado Por El Dto. 15-2009)
+194,Incendio
+195,Incendio Agravado
+196,Incendio Forestal
+197,Incendio Y Estrago Culposo
+198,Incesto Agravado
+199,Incitacion Publica
+200,Incumplimiento De Deberes
+201,Financiamiento Electoral
+202,Incumplimiento De Deberes De Asistencia
+203,Incumplimiento De Pago
+204,Incumplimiento Del Deber De Presentar Declaracion Jurada Patrimonial
+205,Incumplimiento Del Plan De Manejo Forestal Como Delito
+207,Induccion O Ayuda Al Suicidio
+208,Induccion Al Uso De Estupefacientes
+209,Infanticidio
+210,Infraccion De Privilegio
+212,Ingreso De Equipos Terminales Moviles A Centros De Privacion De Libertad
+214,Ingreso Ilegal De Personas
+215,Inhumaciones Y Exhumaciones Ilegales
+216,Injuria
+217,Instigacion A Delinquir
+218,Instigacion Al Genocidio
+219,Intimidacion Publica
+220,Interrupcion O Entorpecimiento De Comunicaciones
+221,Intimidacion Publica Agravada
+222,Introduccion De Moneda Falsa O Alterada
+223,Investigaciones O Excavaciones Ilicitas
+224,Juegos Ilicitos
+225,Lavado De Dinero U Otros Activos
+226,Lesion En Rina
+227,Lesiones Culposas
+228,Espionaje Agravado
+229,Lesiones Graves
+230,Lesiones Gravisimas
+231,Lesiones Leves
+232,Lesiones Especificas
+233,Loterias Y Rifas Ilicitas
+235,Malversacion
+236,Manipulacion De Informacion
+238,Modificaciones Ilicitas De Bienes Culturales
+239,Modificacion Ilegal De Armas De Fuego
+240,Monopolio
+241,Motin De Presos
+244,Negociaciones Usurarias
+245,Nombramientos Ilegales
+246,Obstaculizacion A La Accion Penal
+247,Obstruccion De Justicia
+248,Obstruccion Extorsiva De Transito
+249,Ocultacion De Impedimento
+250,Omision De Auxilio
+251,Omision De Denuncia
+252,Parricidio
+253,Patrocinio Infiel
+254,Peculado
+255,Peculado Por Sustraccion
+256,Peculado Por Uso
+257,Peculado Culposo
+258,Perjurio
+259,Perturbacion De La Posesion
+260,Plagio O Secuestro
+261,Portacion Ilegal De Armas Blancas De Uso Exclusivo Del Ejercito De Guatemala O De Las Fuerzas De Seguridad Y Orden Publico Del Estado
+262,Intercepcion O Reproduccion De Comunicaciones
+263,Portacion Ilegal De Armas De Fuego Belicas O De Uso Exclusivo Del Ejercito De Guatemala O De Las Fuerzas De Seguridad Y Orden Publico Del Estado
+264,Portacion Ilegal De Armas De Fuego De Uso Civil Y/O Deportivas
+265,Inutilizacion De Defensas
+266,Portacion Ilegal De Armas Hechizas O De Fabricacion Artesanal
+267,"Portacion Ilegal De Explosivos, Armas Quimicas, Biologicas, Atomicas, Trampas Belicas Y Armas Experimentales"
+268,"Portacion De Arma De Fuego En Estado De Embriaguez O Bajo Efectos De Drogas, Estupefacientes O Barbituricos"
+269,Prestacion Ilegal De Servicios De Seguridad Privada
+270,Actos Hostiles
+271,Portacion Ostentosa De Arma De Fuego
+273,Posesion Para El Consumo
+275,Presentacion De Testigos Falsos
+276,Prevaricato
+277,Prevaricato De Arbitros
+278,Prevaricato Culposo
+279,"Produccion De Medicamentos Falsificados, Productos Farmaceuticos Falsificados, Dispositivos Medicos Y Material Medico Quirurgico Falsificado"
+281,Profanacion De Sepulturas
+282,Prolongacion De Funciones Publicas
+283,Promocion O Estimulo A La Drogadiccion
+284,Promocion Y Fomento
+287,Proposicion Y Conspiracion
+288,Propagacion De Enfermedad
+289,Proteccion De La Fauna (Caza Sin Licencia)
+290,Publicacion De Ofensas
+291,Quiebra Fraudulenta
+292,Rapto Impropio (Derogado Por La Ley De Violencia Sexual)
+293,Rapto Propio (Derogado Por La Ley De Violencia Sexual)
+294,"Recoleccion, Utilizacion Y Comercializacion De Productos Forestal"
+295,Registros Prohibidos
+298,Reparacion De Armas De Fuego No Registradas
+299,Reproduccion De Instrucciones O Programas De Computacion
+300,Resistencia
+301,Resistencia A La Accion Fiscalizadora De La Administracion Tributaria
+302,Resoluciones Violatorias A La Constitucion
+303,Responsabilidad De Conductores
+304,Responsabilidad De Otras Personas
+305,Retardo Malicioso
+306,Retencion De Informacion
+307,Reuniones Y Manifestaciones Ilicitas
+308,Revelacion De Informacion Confidencial O Reservada
+309,Revelacion De Secreto Profesional
+310,Revelacion De Secretos
+311,Robo
+312,Robo Agravado
+313,Robo De Equipo Terminal Movil
+314,Robo De Fluidos
+315,Robo De Uso
+316,Robo Impropio
+317,Sedicion
+318,Siembra Y Cultivo
+319,Simulacion De Delito
+320,Simulacion De Matrimonio
+321,Sometimiento A Servidumbre
+324,"Supresion, Ocultacion O Destruccion De Documentos"
+325,Sustitucion De Un Nino Por Otro
+326,Sustraccion Agravada
+327,Sustraccion Impropia
+328,Sustraccion Propia
+329,"Sustraccion, Desvio O Supresion De Correspondencia"
+330,Tala De Arboles De Especies Protegidas
+331,"Tenencia Ilegal De Armas De Fuego Artesanales O Hechizas, Armas Con Numero De Registro Alterado, Armas Con Numero Borrado O No Legalmente Marcadas Por La Digecam"
+332,Tenencia Ilegal De Municiones
+333,"Tenencia O Portacion De Arma De Fuego Con Numero De Registro Alterado, Borrado O No Legalmente Marcada Por La Digecam"
+334,Tentativa Y Aborto Culposo
+335,Tenencia De Armeria Ilegal
+336,"Tenencia Ilegal De Armas De Fuego Belicas O De Uso Exclusivo Del Ejercito De Guatemala O De Las Fuerzas De Seguridad Y Orden Publico Del Estado, Explosivos, Armas Quimicas, Biologicas, Atomicas, Trampas Belicas Y Armas Experimentales."
+337,"Tenencia Ilegal De Armas De Fuego Ofensivas, Explosivos, Armas Quimicas, Biologicas, Atomicas (Derogado Por El Dto. 15-2009)"
+338,Tenencia Ilegal De Municiones Para Armas De Fuego (Derogado Por El Dto. 15-2009)
+339,Tenencia De Instrumentos De Falsificacion
+340,Terrorismo
+341,Testaferrato
+342,Trafico De Influencias
+343,Trafico De Tesoros Nacionales
+344,Trafico Ilegal De Flora Y Fauna
+345,Trafico Ilicito De Armas De Fuego O Municiones
+346,"Trafico Ilegal De Farmacos, Drogas O Estupefacientes"
+347,Transito Internacional
+348,Transito Ilegal De Personas
+349,Transporte Y/O Traslado Ilegal De Armas De Fuego
+350,Colocacion O Venta Ilicita De Seguros
+351,Transporte Y/O Traslado Ilegal De Municiones
+352,Transporte De Ilegales
+354,Sustraccion De Las Armas Incautadas O Sujetas A Comiso
+355,Destruccion De Materias Primas O Productos Agricolas O Industrial
+356,Tortura
+357,Turbacion De Actos De Culto
+358,Uso De Documentos Falsificados
+359,Uso De Equipos Terminales Moviles En Centros De Privacion De Libertad
+360,Uso De Equipos Terminales Moviles Por Funcionarios Y Empleados Publicos
+361,Uso De Informacion
+362,Uso Ilegitimo De Documento De Identidad
+363,Uso Indebido De Uniforme E Insignias
+364,Uso Publico De Nombre Supuesto
+365,Uso De Sellos Y Otros Efectos Inutilizados
+367,Usura
+368,Usurpacion
+369,Usurpacion A Areas Protegidas
+370,Usurpacion Agravada
+371,Usurpacion De Aguas
+372,Usurpacion De Atribuciones
+373,Usurpacion De Calidad
+375,Usurpacion De Funciones
+376,Propagacion De Enfermedad En Plantas O Animales
+377,Venta Ilegal De Armas De Fuego
+378,Pacto Colusorio En Las Adquisiciones Publicas
+380,Violacion A Las Medidas De Proteccion De Bienes Culturales
+381,Violacion A Derechos De Autor Y Derechos Conexos
+382,Violacion A Derechos De Propiedad Industrial
+383,Violacion A La Constitucion
+385,Violacion A Los Derechos Marcarios
+388,Violacion De Sellos
+389,"Falsedad De Despachos Telegraficos, Radiograficos O Cablegraficos"
+392,Violacion De Correspondencia Y Papeles Privados
+394,Abuso Con Proposito Electoral
+395,Abuso De Autoridad Con Proposito Electoral
+397,Alteracion De Moneda
+398,Alteracion De Programas
+399,Instigacion A La Violacion De Deberes
+400,Atentado Contra El Transporte De Material Electoral
+401,Atentados Contra La Integridad E Independencia Del Estado
+402,Coaccion Contra Elecciones
+403,Coaccion Del Elector
+404,Cobro Ilegal De Comisiones
+405,Cohecho Pasivo Transnacional
+406,Contratacion De Ilegales
+408,Representacion Ilegal
+409,Delitos Contra Los Deberes De Humanidad
+410,Denegacion De Auxilio
+411,"Deposito Ilegal De Armas De Fuego Belicas O De Uso Exclusivo Del Ejercito De Guatemala O De Las Fuerzas De Seguridad Y Orden Publico Del Estado, Explosivos, Armas Quimicas, Biologicas, Atomicas, Trampas Belicas Y Armas Experimentales"
+412,Tenencia Ilegal De Maquina Reacondicionadora De Municion Para Armas De Fuego
+413,Entrar O Permanecer En El Pais Haciendo Uso De Documentos Falsos (Ley De Migr.112 B)
+414,Entrega Indebida De Arma
+415,Entrenamiento Para Actividades Ilicitas
+416,Estafa Mediante Lesion
+417,Estupro Mediante Engano (Derogado Por La Ley De Violencia Sexual)
+418,Exacciones Ilegales
+419,Falsificacion De Contrasenas Y Marcas
+420,Falta Aduanera (Ley Contra La Defraudacion Y El Contrabando Aduaneros Art 6)
+421,Falta En La Portacion De Arma De Fuego Con Licencia Vencida
+422,Faltas (Ley De Areas Protegidas Art. 81)
+423,Financiamiento Electoral Ilicito
+424,Fraude Del Votante
+425,Introduccion De Mercancias De Contrabando
+426,Intrusion
+427,Militancia En Agrupaciones Ilegales
+428,"Ocultamiento, Retencion Y Posesion Ilicita De Documentos Que Acredita La Ciudadania"
+429,Panico Financiero
+430,Peligro De Desastre Ferroviario
+431,"Promocion, Propaganda, Campana O Publicidad Anticipada"
+432,Inseminacion Fraudulenta
+433,Propaganda Oficial Ilegal
+434,Propaganda Reeleccionaria
+435,Publicaciones Y Espectaculos Obscenos
+436,Publicidad Indebida
+437,Responsabilidad Del Funcionario
+438,Servicio Ilegal
+439,Siembra Y Cultivo De Plantas Productoras De Sustancias Estupefacientes
+440,"Soborno De Arbitros, Peritos U Otras Personas Con Funcion Publica"
+441,Suposicion De Muerte
+442,Tenencia Ilegal De Materiales De Fabricacion Y/O Reacondicionamiento De Municiones Para Armas De Fuego
+444,Transito Ilicito De Armas De Fuego O Municiones
+445,Turbacion Del Acto Eleccionario
+446,Uso Indebido De Nombre Comercial
+447,Violacion Del Secreto Del Voto
+448,De La Fiscalizacion Electoral De Fondos
+449,Ingresar Al Pais Violando Ley De Migracion Y Sus Reglamentos
+450,Secuestro O Incautacion De Armas
+451,"Desastre Maritimo, Fluvial O Aereo"
+452,Facilitacion Ilicita De Permanencia
+453,Facilitacion Ilicita De Trabajadores Migrantes Extranjeros
+454,Ley Para El Control De Animales Peligrosos
+455,Procuracion De Impunidad O Evasion
+456,Programas Destructivos
+457,Adulteracion De Medicamentos
+458,Otras Formas De Monopolio
+459,Exportacion De Madera En Dimensiones Prohibidas
+460,Autoimputacion
+461,Desastres Culposos
+462,Establecimientos O Laboratorios Clandestinos
+463,Fabricacion Ilegal De Armas De Fuego
+464,Construccion Clandestina De Poligonos De Tiro
+465,Estafa Por Medio De Tarjeta De Credito O Debito
+466,Explotacion Ilegal De Transporte Urbano O Extraurbano De Personas
+467,Inobservancia De Formalidades
+468,Intermediarios De Seguros
+469,Inutilizacion Y Entorpecimiento De Defensas
+470,Traicion Propia
+471,Ultraje A Los Simbolos Nacionales
+472,Violacion De Inmunidades
+473,Delito De Sustraccion De Las Armas Incautadas O Sujetas A Comiso
+474,Menoscabo A La Cultura Tradicional
+475,Abandono De Servicio De Transporte
+476,Caso De Muerte
+477,Desaparacion O Muerte De La Raptada
+478,"Prohibicion De La Produccion, Compra, Venta, Importacion, Exportacion, Transito, Utilizacion Y Posesion De Minas Antipersonales Y De Dispositivos Antidetectores, O De Partes De Tales Artefactos"
+479,Adulterio
+480,Transacciones E Inversiones Ilicitas
+481,Exentos De La Responsabilidad Penal
+482,Produccion De Pornografia De Personas Menores De Edad Con Circunstancias Especiales De Agravacion
+483,Quiebra Culpable
+484,Transito Aduanero Internacional
+485,Agravacion Especifica
+486,Cohecho Activo Transnacional
+487,Estafa Mediante Destruccion De Cosa Propia
+488,Exportacion Ilicita De Bienes Culturales
+489,"Hurto, Robo Y Trafico De Bienes Culturales"
+490,Agravacion Electoral
+900,No Es Delito
+901,Otros

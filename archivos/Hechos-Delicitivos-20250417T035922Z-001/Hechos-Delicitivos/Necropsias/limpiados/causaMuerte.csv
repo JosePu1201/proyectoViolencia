@@ -1,0 +1,43 @@
+id,nombre
+1,Amputacion
+2,Asfixia
+3,Cardiomiopatia
+4,Decapitacion
+5,Deplecion
+6,Desnutricion
+7,Edema Pulmonar
+8,Electrocucion
+9,Embolia Cerebral
+10,Embolia Pulmonar
+11,"Enfermedad Vascular, No Especificando Si Es Hemorragico, Isquemico, Trombotico Y Embolico"
+12,Enterocolitis
+13,Envenenamiento Por Mordedura De Serpiente
+14,Evento Cerebro Vascular
+15,Evento Vascular/Aneurisma O Malformaciones Arteriovenosas
+16,Fibrosis Y Cirrosis Del Higado
+17,Fulguracion
+18,Hemorragias
+19,Herida De Arma Blanca
+20,Herida De Arma De Fuego
+21,Indeterminada
+22,Infarto
+23,Intoxicacion
+24,Malformaciones Congenitas
+25,Meningitis
+26,Mordedura Y/O Picadura De Insectos
+27,Neumonia
+28,Otras Enfermedades Al Pericardio
+29,Pancreatitis
+30,Peritonitis
+31,Prematurez
+32,Quemadura
+33,Sepsis
+35,Taponamiento Cardiaco
+36,Transtornos Metabolicos
+37,Traumatismo
+38,Tromboembolia
+39,Trombosis
+40,Tuberculosis
+41,Tumor Maligno/Neoplasia
+42,Ulcera Gastrica Perforada
+43,Embolia Grasa

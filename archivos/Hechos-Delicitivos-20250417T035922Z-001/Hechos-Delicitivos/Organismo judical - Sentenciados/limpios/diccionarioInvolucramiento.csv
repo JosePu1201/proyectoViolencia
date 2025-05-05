@@ -1,0 +1,24 @@
+id,nombre
+1,Agresor
+2,Denunciado
+3,En Contra
+4,Procesado
+5,Querellado
+6,Demandado
+7,Imputado
+8,Acusado
+9,Sindicado
+10,Condenado
+11,Adolescente En Conflicto
+12,Adolescente En Conflicto Con La Ley Penal
+13,Incidente
+14,Victimario
+15,Interponente/Sindicado
+16,Recurrido
+17,A Favor
+18,Actor Civil
+19,Agraviado
+20,Denunciante
+21,Querellante Adhesivo
+22,Solicitante
+99,Ignorado

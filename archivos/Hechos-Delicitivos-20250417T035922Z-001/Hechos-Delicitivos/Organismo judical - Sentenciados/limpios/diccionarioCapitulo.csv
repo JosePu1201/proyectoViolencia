@@ -1,0 +1,22 @@
+id,nombre
+1,Homicidios Simples (Codigo Penal)
+2,Homicidios Calificados (Codigo Penal)
+3,Lesiones (Codigo Penal)
+4,De Los Delitos Contra La Libertad Individual (Codigo Penal)
+5,Hurto (Codigo Penal)
+6,Robo (Codigo Penal)
+11,De Los Delitos Y De Sus Penas (Ley Contra La Narcoactividad)
+12,"Delitos, Sanciones Y Prohibiciones (Ley De Equipos Terminales Moviles)"
+13,Delitos De La Delincuencia Organizada (Ley Contra La Delincuencia Organizada)
+14,De Las Coacciones Y Amenazas (Codigo Penal)
+15,De La Extorsion Y Del Chantaje (Codigo Penal)
+16,De La Estafa (Codigo Penal)
+17,Del Encubrimiento (Codigo Penal)
+18,Sobre La Tenencia Y Transporte (Ley De Armas Y Municiones)
+19,De La Portacion (Ley De Armas Y Municiones)
+20,"Relacionadas Con La Importacion, Exportacion, Venta, Fabricacion, Modificacion Y Reacondicionamiento De Armas Y Municiones (Ley De Armas Y Municiones)"
+21,Modificacion Y Reparacion De Armas De Fuego (Ley De Armas Y Municiones)
+22,De La Importacion (Ley De Armas Y Municiones)
+23,"Del Delito, De Los Responsables Y De Las Penas (Ley Contra El Lavado De Dinero U Otros Activos)"
+0,Otros
+999,Ignorado

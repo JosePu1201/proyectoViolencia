@@ -1,0 +1,22 @@
+Estado_del_Caso,id_estado_caso
+Apelacion Especial,1
+Archivado,2
+Archivo Fisico,3
+Clausurado,4
+Conciliacion,5
+Concluido,6
+Conexado,7
+Criterio De Oportunidad,8
+Desestimado,9
+En Investigacion,10
+Procedimiento Intermedio,11
+Recurrido,12
+Remision,13
+Remitido A Menores,14
+Remitido A Otra Fiscalia,15
+Remitido A Paz,16
+Sentencia,17
+Sentenciado,18
+Sobreseido,19
+Suspendido,20
+Suspension A La Perscusion Penal,21

@@ -1,0 +1,99 @@
+id,nombre
+1,Homicidio Simple
+2,Homicidio Estado De Emocion Violenta
+3,Homicidio  En Rina Tumultuaria
+4,Homicidio  Preter-Intencional
+5,Homicidio Culposo
+6,Parricidio
+7,Asesinato
+8,Lesiones Simples
+9,Lesiones  Especificas
+10,Lesiones   Gravisimas
+11,Lesiones  Graves
+12,Lesiones  Leves
+13,Lesiones  En Rina
+14,Lesiones  Culposas
+15,Plagio O Secuestro
+16,Hurto Simple
+17,Hurto Agravado
+18,Robo Simple
+19,Robo Agravado
+45,Transito Internacional
+46,Siembra Y Cultivo
+47,"Comercio, Trafico Y Almacenamiento Ilicito"
+48,Posesion Para El Consumo
+49,Promocion Y Fomento
+50,Facilitacion De Medios
+51,Asociaciones Delictivas
+52,Procuracion De Impunidad O Evasion
+53,Promocion O Estimulo A La Drogadiccion
+54,Encubrimiento Real
+55,Encubrimiento Personal
+56,Robo De Equipo Terminal Movil
+57,Adquisicion De Equipos Terminales Moviles De Dudosa Procedencia
+58,Alteracion De Equipos Terminales Moviles
+59,"Comercializacion De Equipos Terminales Moviles Denunciados Como Robados, Hurtados, Extraviados O Alterados"
+60,Comercializacion De Equipos Terminales Moviles Por Persona Sin Registro
+61,Uso De Equipos Terminales Moviles En Centros De Privacion De Libertad
+62,Ingreso De Equipos Terminales Moviles A Centros De Privacion De Libertad
+63,Uso De Equipos Terminales Moviles Por Funcionarios Y Empleados Publicos
+64,Conspiracion Mediante Equipos Terminales Moviles
+65,Secuestro Y Comiso De Equipos Terminales Moviles
+66,Plazo Para Obtener El Registro Y La Constancia De Inscripcion
+67,Suspension De Los Servicios
+68,Implementacion Y Actualizacion De Sistemas Modernos De Registro
+69,Conspiracion
+70,Asociacion Ilicita
+71,Asociacion Ilegal De Gente Armada
+72,Entrenamiento Para Actividades Ilicitas
+73,Uso Ilegal De Uniformes O Insignias
+74,Comercializacion De Vehiculos Y Similares Robados En El Extranjero O En El Territorio Nacional
+75,Obstruccion A La Justicia
+76,Exacciones Intimidatorias
+77,Obstruccion Extorsiva De Transito
+78,Atentado Contra Los Servicios De Telecomunicacion
+79,Fabricacion O Transformacion
+80,Transacciones E Inversiones Ilicitas
+82,Extorsion
+83,Casos Especiales De Estafa
+84,Amenazas
+85,Encubrimiento Propio
+86,Portacion Ilegal De Armas De Fuego De Uso Civil Y/O Deportivo
+87,Tenencia Ilegal De Municiones
+88,Transporte Y/O Traslado Ilegal De Armas De Fuego
+89,Lavado De Dinero U Otros Activos
+90,Portacion Ilegal De Armas Hechizas O De Fabricacion Artesanal
+91,Trafico Ilicito De Armas De Fuego O Municiones
+92,Transito Ilicito De Armas De Fuego O Municiones
+93,De La Portacion De Un Arma De Fuego Sin La Licencia Correspondiente
+94,"Deposito Ilegal De Armas De Fuego Belicas O De Uso Exclusivo Del Ejercito De Guatemala O De Las Fuerzas De Seguridad Y Orden Publico Del Estado, Explosivos, Armas Quimicas, Biologicas, Atomicas, Trampas Belicas Y Armas Experimentales"
+95,Deposito Ilegal De Armas De Fuego De Uso Civil Y/O Deportivas
+96,"Deposito De Armas De Fuego, Municiones Y Componentes Especificos En El Almacen Fiscal"
+97,Disparos Sin Causa Justificada
+98,Exportacion Ilegal De Armas De Fuego
+99,Exportacion Ilegal De Municiones Para Armas De Fuego
+100,Fabricacion De Armas De Fuego Hechizas O Artesanales
+101,Fabricacion Ilegal De Armas De Fuego
+102,Fabricacion Ilegal De Municiones
+103,Falta En La Portacion De Arma De Fuego Con Licencia Vencida
+104,Importacion Ilegal De Armas
+105,Importacion Ilegal De Municiones.
+106,Modificacion Ilegal De Armas De Fuego
+107,"Portacion De Arma De Fuego En Estado De Embriaguez O Bajo Efectos De Drogas, Estupefacientes O Barbituricos"
+108,Portacion Ilegal De Armas Blancas De Uso Exclusivo Del Ejercito De Guatemala O De Las Fuerzas De Seguridad Y Orden Publico Del Estado
+109,Portacion Ilegal De Armas De Fuego Belicas O De Uso Exclusivo Del Ejercito De Guatemala O De Las Fuerzas De Seguridad Y Orden Publico Del Estado
+110,"Portacion Ilegal De Explosivos, Armas Quimicas, Biologicas, Atomicas, Trampas Belicas Y Armas Experimentales"
+111,Portacion Ostentosa De Arma De Fuego
+112,Tenencia De Armeria Ilegal
+113,"Tenencia Ilegal De Armas De Fuego Belicas O De Uso Exclusivo Del Ejercito De Guatemala O De Las Fuerzas De Seguridad Y Orden Publico Del Estado, Explosivos, Armas Quimicas, Biologicas, Atomicas, Trampas Belicas Y Armas Experimentales"
+114,"Tenencia Ilegal De Armas De Fuego Artesanales O Hechizas, Armas Con Numero De Registro Alterado, Armas Con Numero Borrado O No Legalmente Marcadas Por La Digecam"
+115,Tenencia Ilegal De Maquina Reacondicionadora De Municion Para Armas De Fuego
+116,Tenencia Ilegal De Materiales De Fabricacion Y/O Reacondicionamiento De Municiones Para Armas De Fuego
+117,"Tenencia O Portacion De Arma De Fuego Con Numero De Registro Alterado, Borrado O No Legalmente Marcada Por La Digecam"
+118,Transporte Y/O Traslado Ilegal De Municiones
+119,Venta Ilegal De Armas De Fuego
+120,Venta Ilegal De Municiones
+121,Otras Portaciones
+122,Delito De Sustraccion De Las Armas Incautadas O Sujetas A Comiso
+0,Otros
+999,Ignorado

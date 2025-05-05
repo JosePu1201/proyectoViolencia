@@ -1,0 +1,62 @@
+id,nombre
+1,Homicidio Por Arma De Fuego
+2,Homicidio Por Arma Blanca
+3,Homicidio Por Arma Contundente
+4,Homicidio Por Artefacto Explosivo
+5,Homicidio Por Estrangulamiento
+6,Homicidio Por Linchamiento
+7,Lesiones Por Arma De Fuego
+8,Lesiones Por Arma Blanca
+9,Lesiones Por Arma Contundente
+10,Lesiones Por Artefacto Explosivo
+11,Lesiones Por Linchamiento
+12,Agresion
+15,Secuestro
+16,Autosecuestro
+17,Allanamiento De Morada
+19,Robo A Residencias
+20,Robo A Comercios
+21,Hurto A Comercios
+22,Robo De Vehiculos
+23,Robo De Camiones/Trailers Con Mercaderia
+24,Robo De Motocicletas
+25,Portacion Ilegal Arma De Fuego
+26,Portacion Arma Blanca
+27,Robo A Bancos
+28,Robos A Turistas Extranjeros
+29,Robo A Turistas Nacionales
+30,Robo A Peatones
+31,Robo A Blindados
+32,Robo A Buses Urbanos
+33,Robo A Buses Extraurbanos
+34,Cobro Ilegal De Impuesto A Buses
+35,Robo En Iglesias
+36,Otros Robos Y Hurtos
+37,Impuesto A Negocios
+38,En Desalojos De Fincas
+39,En Allanamientos Judiciales
+40,Extorsion
+41,Portacion Artefacto Explosivo
+42,Tenencia De Droga
+43,Trafico De Droga
+44,Siembra Y Cultivo De Drogas
+45,Delitos Forestales
+46,Cohecho
+47,Orden De Captura
+48,Rina
+49,Danos
+50,Ebriedad Y Escandalo
+51,Escandalo Bajo Efectos De Droga
+55,Estafa
+56,Perversion De Menores
+58,Contrabando
+59,Disparos
+60,Falsificacion De Documentos
+61,Falsificacion De Moneda
+62,Disturbios
+63,Tenencia De Licores Clandestirnos
+64,Rapto
+65,Actos Inmorales En La Via Publica
+66,Maltrato Infantil
+67,Juegos Ilicitos
+68,Otras Causas (Motivo) (Codigo Interno)

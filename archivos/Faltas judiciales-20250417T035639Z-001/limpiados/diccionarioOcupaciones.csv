@@ -1,0 +1,447 @@
+id,ocupacion
+1111,Miembros Del Poder Legislativo
+1112,Personal Directivo De La Administracion Publica
+1113,Jefes De Pequenas Poblaciones
+1114,Dirigentes De Organizaciones Que Presentan Un Interes Especial
+1120,Directores Generales Y Gerentes Generales
+1211,Directores Financieros
+1212,Directores De Recursos Humanos
+1213,Directores De Politicas Y Planificacion
+1219,Directores De Administracion Y Servicios No Clasificados Bajo Otros Epigrafes
+1221,Directores De Ventas Y Comercializacion
+1222,Directores De Publicidad Y Relaciones Publicas
+1223,Directores De Investigacion Y Desarrollo
+1311,Directores De Produccion Agropecuaria Y Silvicultura
+1312,Directores De Produccion De Piscicultura Y Pesca
+1321,Directores De Industrias Manufactureras
+1322,Directores De Explotaciones De Mineria
+1323,Directores De Empresas De Construccion
+1324,"Directores De Empresas De Abastecimiento, Distribucion Y Afines"
+1330,Directores De Servicios De Tecnologia De La Informacion Y Las Comunicaciones
+1341,Directores De Servicios De Cuidados Infantiles
+1342,Directores De Servicios De Salud
+1343,Directores De Servicios De Cuidado De Las Personas De Edad
+1344,Directores De Servicios De Bienestar Social
+1345,Directores De Servicios De Educacion
+1346,"Gerentes De Sucursales De Bancos, De Servicios Financieros Y De Seguros"
+1349,Directores Y Gerentes De Servicios Profesionales No Clasificados Bajo Otros Epigrafes
+1411,Gerentes De Hoteles
+1412,Gerentes De Restaurantes
+1420,Gerentes De Comercios Al Por Mayor Y Al Por Menor
+1431,"Gerentes De Centros Deportivos, De Esparcimiento Y Culturales"
+1439,Gerentes De Servicios No Clasificados Bajo Otros Epigrafes
+2111,Fisicos Y Astronomos
+2112,Meteorologos
+2113,Quimicos
+2114,Geologos Y Geofisicos
+2120,"Matematicos, Actuarios Y Estadisticos"
+2131,"Biologos, Botanicos, Zoologos Y Afines"
+2132,Agronomos Y Afines
+2133,Profesionales De La Proteccion Medioambiental
+2141,Ingenieros Industriales Y De Produccion
+2142,Ingenieros Civiles
+2143,Ingenieros Medioambientales
+2144,Ingenieros Mecanicos
+2145,Ingenieros Quimicos
+2146,"Ingenieros De Minas, Metalurgicos Y Afines"
+2149,Ingenieros No Clasificados Bajo Otros Epigrafes
+2151,Ingenieros Electricistas
+2152,Ingenieros Electronicos
+2153,Ingenieros En Telecomunicaciones
+2161,Arquitectos
+2162,Arquitectos Paisajistas
+2163,Disenadores De Productos Y De Prendas
+2164,Urbanistas E Ingenieros De Transito
+2165,Cartografos Y Agrimensores
+2166,Disenadores Graficos Y Multimedia
+2211,Medicos Generales
+2212,Medicos Especialistas
+2221,Profesionales De Enfermeria
+2222,Profesionales De Parteria
+2230,Profesionales De Medicina Tradicional Y Alternativa
+2240,Practicantes Paramedicos
+2250,Veterinarios
+2261,Dentistas
+2262,Farmaceuticos
+2263,Profesionales De La Salud Y La Higiene Laboral Y Ambiental
+2264,Fisioterapeutas
+2265,Dietistas Y Nutricionistas
+2266,Audiologos Y Logopedas
+2267,Optometristas
+2269,Profesionales De La Salud No Clasificados Bajo Otros Epigrafes
+2310,Profesores De Universidades Y De La Ensenanza Superior
+2320,Profesores De Formacion Profesional
+2330,Profesores De Ensenanza Secundaria
+2341,Maestros De Ensenanza Primaria
+2342,Maestros Preescolares
+2351,Especialistas En Metodos Pedagogicos
+2352,Educadores Para Necesidades Especiales
+2353,Otros Profesores De Idiomas
+2354,Otros Profesores De Musica
+2355,Otros Profesores De Artes
+2356,Instructores En Tecnologia De La Informacion
+2359,Profesionales De La Ensenanza No Clasificados Bajo Otros Epigrafes
+2411,Contables
+2412,Asesores Financieros Y En Inversiones
+2413,Analistas Financieros
+2421,Analistas De Gestion Y Organizacion
+2422,Especialistas En Politicas De Administracion
+2423,Especialistas En Politicas Y Servicios De Personal Y Afines
+2424,Especialistas En Formacion Del Personal
+2431,Profesionales De La Publicidad Y La Comercializacion
+2432,Profesionales De Relaciones Publicas
+2433,Profesionales De Ventas Tecnicas Y Medicas (Excluyendo La Tic)
+2434,Profesionales De Ventas De Tecnologia De La Informacion Y Las Comunicaciones
+2511,Analistas De Sistemas
+2512,Desarrolladores De Software
+2513,Desarrolladores Web Y Multimedia
+2514,Programadores De Aplicaciones
+2519,Desarrolladores Y Analistas De Software Y Multimedia Y Analistas No Clasificados Bajo Otros Epigrafes
+2521,Disenadores Y Administradores De Bases De Datos
+2522,Administradores De Sistemas
+2523,Profesionales En Redes De Computadores
+2529,Especialistas En Bases De Datos Y En Redes De Computadores No Clasificados Bajo Otros Epigrafes
+2611,Abogados
+2612,Jueces
+2619,Profesionales En Derecho No Clasificados Bajo Otros Epigrafes
+2621,Archivistas Y Curadores De Museos
+2622,"Bibliotecarios, Documentalistas Y Afines"
+2631,Economistas
+2632,"Sociologos, Antropologos Y Afines"
+2633,"Filosofos, Historiadores Y Especialistas En Ciencias Politicas"
+2634,Psicologos
+2635,Profesionales Del Trabajo Social
+2636,Profesionales Religiosos
+2641,Autores Y Otros Escritores
+2642,Periodistas
+2643,"Traductores, Interpretes Y Linguistas"
+2651,Artistas De Artes Plasticas
+2652,"Musicos, Cantantes Y Compositores"
+2653,Bailarines Y Coreografos
+2654,"Directores De Cine, De Teatro Y Afines"
+2655,Actores
+2656,"Locutores De Radio, Television Y Otros Medios De Comunicacion"
+2659,Artistas Creativos E Interpretativos No Clasificados Bajo Otros Epigrafes
+3111,Tecnicos En Ciencias Fisicas Y Quimicas
+3112,Tecnicos En Ingenieria Civil
+3113,Electrotecnicos
+3114,Tecnicos En Electronica
+3115,Tecnicos En Ingenieria Mecanica
+3116,Tecnicos En Quimica Industrial
+3117,Tecnicos En Ingenieria De Minas Y Metalurgia
+3118,Delineantes Y Dibujantes Tecnicos
+3119,Tecnicos En Ciencias Fisicas Y En Ingenieria No Clasificados Bajo Otros Epigrafes
+3121,Supervisores En Ingenieria De Minas
+3122,Supervisores De Industrias Manufactureras
+3123,Supervisores De La Construccion
+3131,Operadores De Instalaciones De Produccion De Energia
+3132,"Operadores De Incineradores, Instalaciones De Tratamiento De Agua Y Afines"
+3133,Controladores De Instalaciones De Procesamiento De Productos Quimicos
+3134,Operadores De Instalaciones De Refinacion De Petroleo Y Gas Natural
+3135,Controladores De Procesos De Produccion De Metales
+3139,Tecnicos En Control De Procesos No Clasificados Bajo Otros Epigrafes
+3141,Tecnicos En Ciencias Biologicas (Excluyendo La Medicina)
+3142,Tecnicos Agropecuarios
+3143,Tecnicos Forestales
+3151,Oficiales Maquinistas En Navegacion
+3152,"Capitanes, Oficiales De Cubierta Y Practicos"
+3153,Pilotos De Aviacion Y Afines
+3154,Controladores De Trafico Aereo
+3155,Tecnicos En Seguridad Aeronautica
+321,Tecnicos Medicos Y Farmaceuticos
+3211,Tecnicos En Aparatos De Diagnostico Y Tratamiento Medico
+3212,Tecnicos De Laboratorios Medicos
+3213,Tecnicos Y Asistentes Farmaceuticos
+3214,Tecnicos De Protesis Medicas Y Dentales
+3221,Profesionales De Nivel Medio De Enfermeria
+3222,Profesionales De Nivel Medio De Parteria
+3230,Profesionales De Nivel Medio De Medicina Tradicional Y Alternativa
+3240,Tecnicos Y Asistentes Veterinarios
+3251,Dentistas Auxiliares Y Ayudantes De Odontologia
+3252,Tecnicos En Documentacion Sanitaria
+3253,Trabajadores Comunitarios De La Salud
+3254,Tecnicos En Optometria Y Opticos
+3255,Tecnicos Y Asistentes Fisioterapeutas
+3256,Practicantes Y Asistentes Medicos
+3257,"Inspectores De La Salud Laboral, Medioambiental Y Afines"
+3258,Ayudantes De Ambulancias
+3259,Profesionales De La Salud De Nivel Medio No Clasificados Bajo Otros Epigrafes
+3311,"Agentes De Bolsa, Cambio Y Otros Servicios Financieros"
+3312,Oficiales De Prestamos Y Creditos
+3313,Tenedores De Libros
+3314,"Profesionales De Nivel Medio De Servicios Estadisticos, Matematicos Y Afines"
+3315,Tasadores
+3321,Agentes De Seguros
+3322,Representantes Comerciales
+3323,Agentes De Compras
+3324,Agentes De Compras Y Consignatarios
+3331,Declarantes O Gestores De Aduana
+3332,Organizadores De Conferencias Y Eventos
+3333,Agentes De Empleo Y Contratistas De Mano De Obra
+3334,Agentes Inmobiliarios
+3339,Agentes De Servicios Comerciales No Clasificados Bajo Otros Epigrafes
+3341,Supervisores De Secretaria
+3342,Secretarios Juridicos
+3343,Secretarios Administrativos Y Ejecutivos
+3344,Secretarios Medicos
+3351,Agentes De Aduana E Inspectores De Fronteras
+3352,Agentes De Administracion Tributaria
+3353,Agentes De Servicios De Seguridad Social
+3354,Agentes De Servicios De Expedicion De Licencias Y Permisos
+3355,Inspectores De Policia Y Detectives
+3359,Agentes De La Administracion Publica Para La Aplicacion De La Ley Y Afines No Clasificados Bajo Otros Epigrafes
+3410,"Profesionales De Nivel Medio, De Servicios Juridicos, Sociales Y Religiosos"
+3411,Profesionales De Nivel Medio Del Derecho Y Servicios Legales Y Afines
+3412,Trabajadores Y Asistentes Sociales De Nivel Medio
+3413,Auxiliares Laicos De Las Religiones
+3420,Entrenadores De Deportes Y Aptitud Fisica
+3421,Atletas Y Deportistas
+3422,"Entrenadores, Instructores Y Arbitros De Actividades Deportivas"
+3423,Instructores De Educacion Fisica Y Actividades Recreativas
+3431,Fotografos
+3432,Disenadores Y Decoradores De Interior
+3433,"Tecnicos En Galerias De Arte, Museos Y Bibliotecas"
+3434,Chefs
+3435,Otros Profesionales De Nivel Medio En Actividades Culturales Y Artistas
+351,Tecnicos En Operaciones De Tecnologia De La Informacion Y Las Comunicaciones Y Asistencia Al Usuario
+3511,Tecnicos En Operaciones De Tecnologia De La Informacion Y Las Comunicaciones
+3512,Tecnicos En Asistencia Al Usuario De Tecnologia De La Informacion Y Las Comunicaciones
+3513,Tecnicos En Redes Y Sistemas De Computadores
+3514,Tecnicos De La Web
+3521,Tecnicos De Radiodifusion Y Grabacion Audio Visual
+3522,Tecnicos De Ingenieria De Las Telecomunicaciones
+4110,Oficinistas Generales
+4120,Secretarios
+4131,Operadores De Maquinas De Procesamiento De Texto Y Mecanografos
+4132,Grabadores De Datos
+4211,Cajeros De Bancos Y Afines
+4212,Receptores De Apuestas Y Afines
+4213,Prestamistas
+4214,Cobradores Y Afines
+4221,Empleados De Agencias De Viajes
+4222,Empleados De Centros De Llamadas
+4223,Telefonistas
+4224,Recepcionistas De Hoteles
+4225,Empleados De Ventanillas De Informaciones
+4226,Recepcionistas (General)
+4227,Entrevistadores De Encuestas Y De Investigaciones De Mercados
+4229,Empleados De Servicios De Informacion Al Cliente No Clasificados Bajo Otros Epigrafes
+4311,Empleados De Contabilidad Y Calculo De Costos
+4312,"Empleados De Servicios Estadisticos, Financieros Y De Seguros"
+4313,Empleados Encargados De Las Nominas
+4321,Empleados De Control De Abastecimientos E Inventario
+4322,Empleados De Servicios De Apoyo A La Produccion
+4323,Empleados De Servicios De Transporte
+4411,Empleados De Bibliotecas
+4412,Empleados De Servicios De Correos
+4413,"Codificadores De Datos, Correctores De Pruebas De Imprenta Y Afines"
+4414,Escribientes Publicos Y Afines
+4415,Empleados De Archivos
+4416,Empleados Del Servicio De Personal
+4419,Personal De Apoyo Administrativo No Clasificado Bajo Otros Epigrafes
+5111,Auxiliares De Servicio De Abordo
+5112,Revisores Y Cobradores De Los Transportes Publicos
+5113,Guias De Turismo
+5121,Cocineros
+5131,Camareros De Mesas
+5132,Camareros De Barra
+5141,Peluqueros
+5142,Especialistas En Tratamientos De Belleza Y Afines
+5151,"Supervisores De Mantenimiento Y Limpieza En Oficinas, Hoteles Y Otros Establecimientos"
+5152,Economos Y Mayordomos Domesticos
+5153,Conserjes
+5161,"Astrologos, Adivinadores Y Afines"
+5162,Acompanantes Y Ayudantes De Camara
+5163,Personal De Pompas Funebres Y Embalsamadores
+5164,Cuidadores De Animales
+5165,Instructores De Autoescuela
+5169,Trabajadores De Servicios Personales No Clasificados Bajo Otros Epigrafes
+5211,Vendedores De Quioscos Y De Puestos De Mercado
+5212,Vendedores Ambulantes De Productos Comestibles
+5221,Comerciantes De Tiendas
+5222,Supervisores De Tiendas Y Almacenes
+5223,Asistentes De Venta De Tiendas Y Almacenes
+5230,Cajeros Y Expendedores De Billetes
+5241,"Modelos De Moda, Arte Y Publicidad"
+5242,Demostradores De Tiendas
+5243,Vendedores Puerta A Puerta
+5244,Vendedores Por Telefono
+5245,Expendedores De Gasolineras
+5246,Vendedores De Comidas Al Mostrador
+5249,Vendedores No Clasificados Bajo Otros Epigrafes
+5311,Cuidadores De Ninos
+5312,Auxiliares De Maestros
+5321,Trabajadores De Los Cuidados Personales En Instituciones
+5322,Trabajadores De Los Cuidados Personales A Domicilio
+5329,Trabajadores De Los Cuidados Personales En Servicios De Salud No Clasificados Bajo Otros Epigrafes
+5411,Bomberos
+5412,Policias
+5413,Guardias De Prision
+5414,Guardias De Proteccion
+5419,Personal De Los Servicios De Proteccion No Clasificados Bajo Otros Epigrafes
+6111,Agricultores Y Trabajadores Calificados De Cultivos Extensivos
+6112,Agricultores Y Trabajadores Calificados De Plantaciones De Arboles Y Arbustos
+6113,"Agricultores Y Trabajadores Calificados De Huertas, Invernaderos, Viveros Y Jardines"
+6114,Agricultores Y Trabajadores Calificados De Cultivos Mixtos
+6121,Criadores De Ganado
+6122,Avicultores Y Trabajadores Calificados De La Avicultura
+6123,Apicultores Y Sericultores Y Trabajadores Calificados De La Apicultura Y La Sericultura
+6129,Criadores Y Trabajadores Pecuarios Calificados De La Cria De Animales No Clasificados Bajo Otros Epigrafes
+6130,Productores Y Trabajadores Calificados De Explotaciones Agropecuarias Mixtas Cuya Produccion Se Destina Al Mercado
+6210,Trabajadores Forestales Calificados Y Afines
+6221,Trabajadores De Explotaciones De Acuicultura
+6222,Pescadores De Agua Dulce Y En Aguas Costeras
+6223,Pescadores De Alta Mar
+6224,Cazadores Y Tramperos
+6310,Trabajadores Agricolas De Subsistencia
+6320,Trabajadores Pecuarios De Subsistencia
+6330,Trabajadores Agropecuarios De Subsistencia
+6340,"Pescadores, Cazadores, Tramperos Y Recolectores De Subsistencia"
+7111,Constructores De Casas
+7112,Albanil
+7113,"Mamposteros, Tronzadores, Labrantes Y Grabadores De Piedra"
+7114,"Operarios En Cemento Armado, Enfoscadores Y Afines"
+7115,Carpinteros De Armar Y De Obra Blanca
+7119,Oficiales Y Operarios De La Construccion (Obra Gruesa) Y Afines No Clasificados Bajo Otros Epigrafes
+7121,Techadores
+7122,Paqueteros Y Colocadores De Suelos
+7123,Revocadores
+7124,Instaladores De Material Aislante Y De Insonorizacion
+7125,Cristaleros
+7126,Fontaneros E Instaladores De Tuberias
+7127,Mecanicos-Montadores De Instalaciones De Refrigeracion Y Climatizacion
+7131,Pintores Y Empapeladores
+7132,Barnizadores Y Afines
+7133,Limpiadores De Fachadas Y Deshollinadores
+7211,Moldeadores Y Macheros
+7212,Soldadores Y Oxicortadores
+7213,Chapistas Y Caldereros
+7214,Montadores De Estructuras Metalicas
+7215,Aparejadores Y Empalmadores De Cables
+7221,Herreros Y Forjadores
+7222,Herramentistas Y Afines
+7223,Reguladores Y Operadores De Maquinas Herramientas
+7224,Pulidores De Metales Y Afiladores De Herramientas
+7231,Mecanicos Y Reparadores De Vehiculos De Motor
+7232,Mecanicos Y Reparadores De Motores De Avion
+7233,Mecanicos Y Reparadores De Maquinas Agricolas E Industriales
+7234,Reparadores De Bicicletas Y Afines
+7311,Mecanicos Y Reparadores De Instrumentos De Precision
+7312,Fabricantes Y Afinadores De Instrumentos Musicales
+7313,"Joyeros, Orfebres Y Plateros"
+7314,"Alfareros Y Afines (Barro, Arcilla Y Abrasivos)"
+7315,"Sopladores, Modeladores, Laminadores, Cortadores Y Pulidores De Vidrio"
+7316,"Redactores De Carteles, Pintores Decorativos Y Grabadores"
+7317,"Artesanos En Madera, Cesteria Y Materiales Similares"
+7318,"Artesanos De Los Tejidos, El Cuero Y Materiales Similares"
+7319,Artesanos No Clasificados Bajo Otros Epigrafes
+7321,"Cajistas, Tipografos Y Afines"
+7322,Impresores
+7323,Encuadernadores Y Afines
+7411,Electricistas De Obras Y Afines
+7412,Mecanicos Y Ajustadores Electricistas
+7413,Instaladores Y Reparadores De Lineas Electricas
+7421,Mecanicos Y Reparadores En Electronica
+7422,Instaladores Y Reparadores En Tecnologia De La Informacion Y Las Comunicaciones
+7511,"Carniceros, Pescaderos Y Afines"
+7512,"Panaderos, Pasteleros Y Confiteros"
+7513,Operarios De La Elaboracion De Productos Lacteos
+7514,"Operarios De La Conservacion De Frutas, Legumbres, Verduras Y Afines"
+7515,Catadores Y Clasificadores De Alimentos Y Bebidas
+7516,Preparadores Y Elaboradores De Tabaco Y Sus Productos
+7521,Operarios Del Tratamiento De La Madera
+7522,Ebanistas Y Afines
+7523,Reguladores Y Operadores De Maquinas De Labrar Madera
+7531,"Sastres, Modistos, Peleteros Y Sombrereros"
+7532,Patronistas Y Cortadores De Tela Y Afines
+7533,"Costureros, Bordadores Y Afines"
+7534,"Tapiceros, Colchoneros Y Afines"
+7535,"Apelambradores, Pellejeros Y Curtidores"
+7536,Zapateros Y Afines
+7541,Buzos
+7542,Dinamiteros Y Pegadores
+7543,Clasificadores Y Probadores De Productos (Excluyendo Alimentos Y Bebidas)
+7544,Fumigadores Y Otros Controladores De Plagas Y Malas Hierbas
+7549,"Oficiales, Operarios Y Artesanos De Artes Mecanicas Y De Otros Oficios No Clasificados Bajo Otros Epigrafes"
+8111,Mineros Y Operadores De Instalaciones Mineras
+8112,Operadores De Instalaciones De Procesamiento De Minerales Y Rocas
+8113,Perforadores Y Sondistas De Pozos Y Afines
+8114,Operadores De Maquinas Para Fabricar Cemento Y Otros Productos Minerales
+8121,Operadores De Instalaciones De Procesamiento De Metales
+8122,"Operadores De Maquinas Pulidoras, Galvanizadoras Y Recubridoras  De Metales"
+8131,Operadores De Plantas Y Maquinas De Productos Quimicos
+8132,Operadores De Maquinas Para Fabricar Productos Fotograficos
+8141,Operadores De Maquinas Para Fabricar Productos De Caucho
+8142,Operadores De Maquinas Para Fabricar Productos De Material Plastico
+8143,Operadores De Maquinas Para Fabricar Productos De Papel
+8151,"Operadores De Maquinas De Preparacion De Fibras, Hilado Y Devanado"
+8152,Operadores De Telares Y Otras Maquinas Tejedoras
+8153,Operadores De Maquinas De Coser
+8154,"Operadores De Maquinas De Blanqueamiento, Tenido Y Limpieza De Tejidos"
+8155,Operadores De Maquinas De Tratamiento De Pieles Y Cueros
+8156,Operadores De Maquinas Para La Fabricacion De Calzado Y Afines
+8157,Operadores De Maquinas Lavarropas
+8159,Operadores De Maquinas Para Fabricar Productos Textiles Y Articulos De Piel Y Cuero No Clasificados Bajo Otros Epigrafes
+8160,Operadores De Maquinas Para Elaborar Alimentos Y Productos Afines
+8171,Operadores De Instalaciones Para La Preparacion De Pasta Para Papel Y Papel
+8172,Operadores De Instalaciones De Procesamiento De La Madera
+8181,Operadores De Instalaciones De Vidrieria Y Ceramica
+8182,Operadores De Maquinas De Vapor Y Calderas
+8183,"Operadores De Maquinas De Embalaje, Embotellamiento Y Etiquetado"
+8189,Operadores De Maquinas Y De Instalaciones Fijas No Clasificados Bajo Otros Epigrafes
+8211,Ensambladores De Maquinaria Mecanica
+8212,Ensambladores De Equipos Electricos Y Electronicos
+8219,Ensambladores No Clasificados Bajo Otros Epigrafes
+8311,Maquinistas De Locomotoras
+8312,"Guardafrenos, Guardagujas Y Agentes De Maniobras"
+8321,Conductores De Motocicletas
+8322,"Conductores De Automoviles, Taxis Y Camionetas"
+8331,Conductores De Autobuses Y Tranvias
+8332,Conductores De Camiones Pesados
+8341,Operadores De Maquinaria Agricola Y Forestal Movil
+8342,Operadores De Maquinas De Movimiento De Tierras Y Afines
+8343,"Operadores De Gruas, Aparatos Elevadores Y Afines"
+8344,Operadores De Autoelevadoras
+8350,Marineros De Cubierta Y Afines
+9111,Limpiadores Y Asistentes Domesticos
+9112,"Limpiadores Y Asistentes De Oficinas, Hoteles Y Otros Establecimientos"
+9113,Personal Domestico
+9121,Lavanderos Y Planchadores Manuales
+9122,Lavadores De Vehiculos
+9123,Lavadores De Ventanas
+9129,Otro Personal De Limpieza
+9211,Peones De Explotaciones Agricolas
+9212,Peones De Explotaciones Ganaderas
+9213,Peones De Explotaciones De Cultivos Mixtos Y Ganaderos
+9214,Peones De Jardineria Y Horticultura
+9215,Peones Forestales
+9216,Peones De Pesca Y Acuicultura
+9311,Peones De Minas Y Canteras
+9312,Peones De Obras Publicas Y Mantenimiento
+9313,Peones De La Construccion De Edificios
+9321,Empacadores Manuales
+9329,Peones De La Industria Manufacturera No Clasificados Bajo Otros Epigrafes
+9331,Conductores De Vehiculos Accionados A Pedal O A Brazo
+9332,Conductores De Vehiculos Y Maquinas De Traccion Animal
+9333,Peones De Carga
+9334,Reponedores De Estanterias
+9411,Cocineros De Comidas Rapidas
+9412,Ayudantes De Cocina
+9510,Vendedores Ambulantes De Servicios Y Afines
+9520,Vendedores Ambulantes (Excluyendo De Comida)
+9611,Recolectores De Basura Y Material Reciclable
+9612,Clasificadores De Desechos
+9613,Barrenderos Y Afines
+9621,"Mensajeros, Mandaderos, Maleteros Y Repartidores"
+9622,Personas Que Realizan Trabajos Varios
+9623,Recolectores De Dinero En Aparatos De Venta Automatica Y Lectores De Medidores
+9624,Acarreadores De Agua Y Recolectores De Lena
+9629,Ocupaciones Elementales No Clasificadas Bajo Otros Epigrafes
+110,Oficiales De Las Fuerzas Armadas
+210,Suboficiales De Las Fuerzas Armadas
+310,Otros Miembros De Las Fuerzas Armadas
+9998,Ocupaciones No Especificadas En Las Anteriores
+9999,Ignorados
+9713,Jubilados
+9711,Amas De Casa
+9712,Estudiantes

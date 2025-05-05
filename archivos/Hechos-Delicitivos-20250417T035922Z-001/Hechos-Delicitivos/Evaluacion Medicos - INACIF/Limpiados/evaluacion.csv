@@ -1,0 +1,31 @@
+id,nombre
+1,Aborto
+3,Agresion
+5,Ampliacion
+6,"Determinacion De Uso De Drogas, Farmacos O Estupefacientes"
+7,Edad Cronologica
+8,Embarazo
+9,Embriaguez
+10,Enfermedad Comun
+11,Estupro
+12,Evaluacion Medica
+13,Evaluacion Odontologica
+14,Evaluacion Psicologica
+15,Evaluacion Psiquiatrica
+17,Herida Por Arma Blanca
+18,Herida Por Arma De Fuego
+19,Indeterminada
+20,Intoxicacion
+21,Lesiones
+22,Maltrato
+23,Maltrato Y Abuso Infantil
+24,Medico General
+25,Medico General A Menores
+26,Politraumatismo
+28,Reevaluacion
+29,Revision De Expediente
+30,Toma De Muestras
+32,Otros
+33,Reconocimiento Medico Para Determinar Estado De Salud
+34,Determinacion Invalidez
+998,Evaluaciones Combinada
