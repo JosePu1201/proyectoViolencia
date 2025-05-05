@@ -1,0 +1,9 @@
+tipo,id_tipo_discriminacion
+Discriminacion,1
+Discriminacion Etnica,2
+Etnica,3
+Etnica Laboral,4
+Etnica Racial,5
+Etnica/ Genero,6
+Racial,7
+Racial Y Etnica,8

@@ -1,0 +1,22 @@
+tipo_evaluacion,id_tipo_evaluacion
+Abuso Sexual,1
+Adn,2
+Agresion Sexual,3
+Agresiones,4
+Heridas Por Arma Blanca,5
+Heridas Por Arma De Fuego,6
+Lesiones,7
+Lesiones Compatibles Con Maltrato,8
+Lesiones Por Agresion,9
+Lesiones Por Causas Externas,10
+Lesiones Por Violencia Intrafamiliar,11
+Maltrato Infantil,12
+Otros,13
+Psicologica,14
+Psiquiatrica,15
+Reconocimiento Medico Por Delito Sexual,16
+Sd,17
+Toma De Muestras,18
+Toma De Muestras Alerta Alba Keneth,19
+Toma De Muestras Alerta Isabel Claudina,20
+Violencia Intrafamiliar,21
